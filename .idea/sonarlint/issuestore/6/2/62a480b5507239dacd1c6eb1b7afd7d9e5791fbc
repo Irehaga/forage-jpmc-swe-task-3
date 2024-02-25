@@ -1,0 +1,6 @@
+
+gpython:S1192’"IDefine a constant instead of duplicating this literal 'test.csv' 3 times.(šÍĞıÿÿÿÿ
+5python:S125"Remove this commented out code.(Õó¹:
+6python:S125""Remove this commented out code.(úã•È
+rpython:S1186Ò"YAdd a nested comment explaining why this method is empty, or complete the implementation.(°ùÙ
+Cpython:S1481–"%Remove the unused local variable "e".(¼–¯¸ÿÿÿÿÿ
